@@ -17,7 +17,6 @@ The application is built using **Node.js, Express.js, PostgreSQL, and Sequelize*
 - **Testing:** Jest, Supertest, PostgreSQL
 - **API Testing:** Postman
 
-> **Note:** The assignment mentioned Django, but this implementation uses Node.js and Express while covering all required backend functionality.
 
 ---
 
